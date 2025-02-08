@@ -9,3 +9,5 @@ Cliquez sur le symbole de votre carte et elle sera ensuite déplacé au milieu. 
 
 Ceci est mon seul et unique projet utilisant pygame
 J'ai aussi utilisé la POO vu pendant l'année.
+
+Veuillez éxécuter le programme via main.py
